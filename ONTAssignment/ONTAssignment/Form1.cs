@@ -16,5 +16,30 @@ namespace ONTAssignment
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnLogin_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnDEF_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnGHI_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
